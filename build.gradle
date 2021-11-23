@@ -22,8 +22,6 @@ dependencies {
 	testImplementation 'org.spockframework:spock-core:2.0-groovy-3.0'
 	testImplementation 'org.spockframework:spock-spring:2.0-groovy-3.0'
 	testImplementation 'org.codehaus.groovy:groovy-all:3.0.7'
-	testImplementation 'org.apache.commons:commons-lang3:3.12.0'
-
 
 }
 

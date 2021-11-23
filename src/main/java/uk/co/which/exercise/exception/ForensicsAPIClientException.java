@@ -7,8 +7,8 @@ public class ForensicsAPIClientException extends RuntimeException {
     @Getter
     private final int statusCode;
 
-    public ForensicsAPIClientException(int StatusCode, String message) {
+    public ForensicsAPIClientException(int statusCode, String message) {
         super(message);
-        statusCode = StatusCode;
+        this.statusCode = statusCode;
     }
 }
