@@ -34,4 +34,5 @@ You can run either just the main test `MainApplicationSpec` or to run all the te
 This will run all the tests and you can find the html report in the `build/reports/tests/test/index.html` path.
 
 
+![image](https://user-images.githubusercontent.com/7358843/151858400-82819720-5588-4b88-aff2-2284e4ae0586.png)
 
